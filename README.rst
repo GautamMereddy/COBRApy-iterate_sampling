@@ -29,8 +29,11 @@ What is iterate sampling?
 In src/cobra/sampling, an additional script called iterate_sampling.py has been added which includes additional functions that allow for the automatic flux sampling of multiple genome-scale metabolic models simultaneously through a single function, iterate_pysampling(). The iterate_pysampling() function uses parallel processing to sample multiple genome-scale model files (in Matlab's .mat format) in a specified directory using the same sampling parameters for each model. This function was designed to be used in conjunction with our other R-based, in-house pipeline iterate_iMAT (based off the ruppinlab/gembox repository). The iterate_pysampling() function outputs two tab-delimited files for each genome-scale model that contain the flux sampling results and the summary statistics for these sampling results.
 
 All functions in iterate_sampling.py have been tested with the following specifications:
+
 - Python 3.7.11
+
 - CORBApy 0.21.0
+
 - Gurobi 9.5.2
 
 Installation
