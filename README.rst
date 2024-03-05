@@ -1,46 +1,6 @@
 ================================================================
-COBRApy - Constraint-Based Reconstruction and Analysis in Python
+COBRApy - Iterative Sampling
 ================================================================
-
-.. image:: https://img.shields.io/pypi/v/cobra.svg
-   :target: https://pypi.org/project/cobra/
-   :alt: Current PyPI Version
-
-.. image:: https://img.shields.io/pypi/pyversions/cobra.svg
-   :target: https://pypi.org/project/cobra/
-   :alt: Supported Python Versions
-
-.. image:: https://img.shields.io/pypi/l/cobra.svg
-   :target: https://www.gnu.org/licenses/old-licenses/lgpl-2.0.html
-   :alt: GNU Lesser General Public License 2 or later
-
-.. image:: https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg
-   :target: https://github.com/opencobra/cobrapy/blob/devel/.github/CODE_OF_CONDUCT.md
-   :alt: Code of Conduct
-
-.. image:: https://github.com/opencobra/cobrapy/workflows/CI-CD/badge.svg
-   :target: https://github.com/opencobra/cobrapy/workflows/CI-CD
-   :alt: GitHub Actions CI/CD Status
-
-.. image:: https://codecov.io/gh/opencobra/cobrapy/branch/master/graph/badge.svg
-   :target: https://codecov.io/gh/opencobra/cobrapy
-   :alt: Codecov
-
-.. image:: https://readthedocs.org/projects/cobrapy/badge/?version=latest
-   :target: https://cobrapy.readthedocs.io/en/latest/?badge=latest
-   :alt: Documentation Status
-
-.. image:: https://badges.gitter.im/opencobra/cobrapy.svg
-   :target: https://gitter.im/opencobra/cobrapy
-   :alt: Gitter Chat Room
-
-.. image:: https://img.shields.io/badge/code%20style-black-000000.svg
-   :target: https://github.com/ambv/black
-   :alt: Black
-
-.. image:: https://zenodo.org/badge/6510063.svg
-   :target: https://zenodo.org/badge/latestdoi/6510063
-   :alt: Zenodo DOI
 
 What is COBRApy?
 ================
@@ -102,25 +62,3 @@ install::
 
 For further information, please follow the `detailed installation instructions
 <INSTALL.rst>`_.
-
-Contributing
-============
-
-Contributions are always welcome! Please read the `contributing guidelines
-<https://github.com/opencobra/cobrapy/blob/devel/.github/CONTRIBUTING.rst>`_ to
-get started.
-
-License
-=======
-
-The COBRApy source is released under both the GPL and LGPL licenses version 2 or
-later. You may choose which license you choose to use the software under.
-
-This program is free software: you can redistribute it and/or modify it under
-the terms of the GNU General Public License or the GNU Lesser General Public
-License as published by the Free Software Foundation, either version 2 of the
-License, or (at your option) any later version.
-
-This program is distributed in the hope that it will be useful, but WITHOUT ANY
-WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
-PARTICULAR PURPOSE. See the GNU General Public License for more details.
