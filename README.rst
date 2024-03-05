@@ -1,5 +1,5 @@
 ================================================================
-COBRApy - Iterative Sampling
+COBRApy - Iterative Sampling Pipeline
 ================================================================
 
 Jason H. Yang Lab @ Rutgers New Jersey Medical School
