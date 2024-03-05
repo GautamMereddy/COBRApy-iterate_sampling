@@ -2,6 +2,12 @@
 COBRApy - Iterative Sampling
 ================================================================
 
+Jason H. Yang Lab @ Rutgers New Jersey Medical School
+
+Author: Gautam Mereddy
+
+Date: March 5, 2024
+
 What is COBRApy?
 ================
 
